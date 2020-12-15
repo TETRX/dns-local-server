@@ -1,0 +1,4 @@
+ADDRESS="127.0.1.124"
+PORT=53
+
+QUESTION_ADDRESS="drukarka.wojtek.home."
